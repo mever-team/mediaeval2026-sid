@@ -180,6 +180,18 @@ image_000123.jpg,0.715,1,0.5,0.5
 ```
 
 ---
+### Quest for insight
+
+We encourage the participants to go beyond just looking at the evaluation metrics. As a starting point, here are several research questions:
+
+- Are the synthetic images and image regions that are challenging to detect automatically also challenging for people looking at the images to see?
+- What are the characteristics of the false positives, i.e., of non-synthetic images or image regions that are misclassified as synthetic? Are there any general insights that can be drawn in terms of perceived quality or image semantics?
+- Are there characteristics (semantic content, framing) that are specific to the in-the-wild examples?
+- How does the choice of training data influence model performance and behavior?
+- What benefits arise from creating or sourcing new datasets? For example, from fact-checking platforms or social media? Which types of content remain underrepresented?
+- How close can collected data come to the distribution of real online synthetic media, and what strategies help reduce the mismatch between curated training sets and real-world content?
+
+---
 
 ## 📅 Important Dates
 
