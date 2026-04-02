@@ -195,12 +195,12 @@ We encourage the participants to go beyond just looking at the evaluation metric
 
 ## 📅 Important Dates
 
-| Event              | Date               |
-|--------------------|--------------------|
-| Data release       | March 1            |
-| Runs due           | May 1              |
-| Paper submission   | May 31             |
-| Workshop           | June 15–16         |
+| Event              | Date                   |
+|--------------------|------------------------|
+| Data release       | March 1                |
+| Runs due           | ~~May 1~~ -> May 15    |
+| Paper submission   | May 31                 |
+| Workshop           | June 15–16             |
 
 📍 Attendance to the MediaEval Workshop is required (online or in person).
 
