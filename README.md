@@ -212,5 +212,34 @@ We encourage the participants to go beyond just looking at the evaluation metric
 For more details about the challenge, please contact:
 * **Olga Papadopoulou** – [olgapapa@iti.gr](mailto:olgapapa@iti.gr), MeVer group, CERTH-ITI, Greece
 
+---
+
+## Citation
+
+If you participate in the task and/or use the dataset, baseline, or task materials, please cite the following papers:
+
+```bibtex
+@inproceedings{papadopoulou2026synthetic,
+  title     = {Synthetic Images at MediaEval 2026: Advancing Detection of Generative AI in Real-World Online Images},
+  author    = {Papadopoulou, Olga and Karageorgiou, Dimitrios and Koutlis, Christos and Gavves, Efstratios and Mareen, Hannes and Papadopoulos, Symeon},
+  booktitle = {Proceedings of MediaEval'26: Multimedia Evaluation Workshop},
+  year      = {2026},
+  address   = {Amsterdam, Netherlands and Online},
+  eventdate = {2026-06-15/2026-06-16}
+}
+
+@inproceedings{papadopoulou2025synthetic,
+  title     = {Synthetic Images at MediaEval 2025: Advancing Detection of Generative AI in Real-World Online Images},
+  author    = {Papadopoulou, Olga and Schinas, Marios and Corvi, Riccardo and Karageorgiou, Dimitrios and Koutlis, Christos and Guillaro, Fabrizio and Gavves, Efstratios and Mareen, Hannes and Verdoliva, Luisa and Papadopoulos, Symeon},
+  booktitle = {Proceedings of the MediaEval 2025 Workshop},
+  year      = {2025},
+  pages     = {25--26},
+  address   = {Dublin, Ireland and Online}
+}
+```
+
+
+
+
 
 
